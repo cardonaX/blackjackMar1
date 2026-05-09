@@ -13,6 +13,7 @@ import { crearDeck, pedirCarta, valorCarta, turnoComputadora, crearCartaHTML } f
 //   git branch -M main
 //  git push -u origin main
  
+//git remote set-url origin https://github.com/TuUsuario/TuRepositorio.git cambiar de repositorio
 
 /**
  * 2C = Two of Clubs
