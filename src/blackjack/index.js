@@ -3,6 +3,16 @@ import _ from 'underscore';
 // import { crearDeck as crearNuevoDeck } from './usecases/crear-deck';
 import { crearDeck, pedirCarta, valorCarta, turnoComputadora, crearCartaHTML } from './usecases';
 
+//   git config --global user.name "---"
+//   git config --global user.email "---@gmail.com"
+//   git config --global color.ui auto
+//   git init
+//   git add .
+//   git commit -m "Second Commit"
+//   git remote add origin https://github.com/cardonaX/blackjackMar.git
+//   git branch -M main
+//  git push -u origin main
+ 
 
 /**
  * 2C = Two of Clubs
